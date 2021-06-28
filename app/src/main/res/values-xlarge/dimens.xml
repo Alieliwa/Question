@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="another_layout" type="layout"></item>
+    <dimen name="btnratetext">50sp</dimen>
+    <dimen name="btnrate_height">100dp</dimen>
+    <dimen name="btn_rate_weidth">300dp</dimen>
+    <dimen name="btn_Ques_weidth">300dp</dimen>
+    <dimen name="btn_Ques_Height">100dp</dimen>
+    <dimen name="text_size">50sp</dimen>
+    <dimen name="tv_size">60sp</dimen>
+    <dimen name="sound_click_w">100dp</dimen>
+    <dimen name="soud_click_h">100dp</dimen>
+    <dimen name="tool_click">80dp</dimen>
+    <dimen name="tool_click_h">80dp</dimen>
+    <dimen name="size_txt">30sp</dimen>
+
+</resources>

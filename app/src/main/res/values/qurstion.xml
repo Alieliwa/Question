@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ques">
+        <item>What Is Your Name ?</item>
+        <item>What Is Your age ?</item>
+        <item>What Is Your National ?</item>
+        <item>What are you studying ?</item>
+        <item>what is Your Number ?</item>
+    </string-array>
+</resources>

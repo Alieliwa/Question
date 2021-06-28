@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ans">
+        <item>My Name Is Ali Mahmoud</item>
+        <item>23</item>
+        <item>Egyption</item>
+        <item>Computer science </item>
+        <item>01118536724</item>
+    </string-array>
+</resources>

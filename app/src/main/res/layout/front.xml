@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:textColor="@color/white"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Font" >
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="@dimen/btn_Ques_weidth"
+        android:layout_height="@dimen/btn_Ques_Height"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/select_btn"
+        android:backgroundTint="@android:color/black"
+        android:gravity="center"
+        android:inputType="text"
+        android:onClick="goto"
+        android:text="@string/btn_question"
+        android:textColor="@color/white"
+        android:textSize="@dimen/btnratetext"
+        tools:ignore="OnClick" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="@dimen/btn_rate_weidth"
+        android:layout_height="@dimen/btnrate_height"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/white"
+        android:background="@drawable/select_btn"
+        android:textSize="@dimen/btnratetext"
+        android:backgroundTint="@android:color/black"
+        android:inputType="text"
+        android:gravity="center"
+        android:onClick="rate"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_above="@id/button"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="300dp"
+        android:text="@string/btn_rateapp"
+        tools:ignore="OnClick" />
+</RelativeLayout>

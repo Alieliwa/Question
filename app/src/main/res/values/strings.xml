@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false"> Question </string>
+    <string name="btn_question" translatable="false"> Question </string>
+    <string name="btn_rateapp" translatable="false">Rateapp </string>
+</resources>
